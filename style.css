@@ -1,14 +1,15 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://image.freepik.com/free-photo/christmas-background-of-purple-glitter_1048-3425.jpg");
       background-size: cover;
-      color: white;
+      color: black;
     }
     .nav {
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 80px;
+      font-style: oblique;
     }
     img {
       margin: 40px 0px 0px 0px;
